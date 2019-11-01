@@ -1,0 +1,104 @@
+body,p, ul{
+  margin: 0px;
+  padding: 0px; 
+  text-align: center;
+  font-size:30px;
+}
+.header{
+	background: #808080;
+	padding-right: 666px;
+	padding-top: 66px;
+	padding-bottom: 66px;
+	 width: 1000px;
+     margin: auto;
+}
+.fold {
+	background: #FFDEAD;
+	padding-top: 241px;
+	padding-bottom: 241px;
+	padding-right: 666px;
+	 width: 1000px;
+     margin: auto;
+}
+.blok_1{
+  background: #FFC0CB;
+  width: 1170px;
+  padding-top:41px;
+  margin: auto;
+  
+ }
+.blok_2{
+	padding-top: 141px;
+	padding-bottom: 141px;
+	background: #FF00FF;
+	text-align: center;
+	margin-top: 40px;
+}
+.ul_class_1{
+	list-style: none; 
+	height: 270px;
+	padding-top:20px;
+}
+.blok_3{
+	
+	height: 255px;
+	width: 512px;
+	background: #9932CC;
+	display: inline-block;
+    margin: auto;
+	margin: 0 25px 0 0;
+	border: yellow 1px solid;
+	box-sizing: border-box;
+	padding-top :105px;
+	
+	
+	
+}
+.ul_class_2{
+	
+	height: 400px;
+	width: 1600px;
+	background: grey;
+	   margin: auto;
+	
+}
+.blok_4{
+	list-style: none; 
+	height: 350px;
+	width: 360px;
+	background: #9932CC;
+	display: inline-block;
+    margin: 20px 25px 0 0;
+	border: yellow 1px solid;
+	box-sizing: border-box;
+	padding-top :175px;
+	
+}
+.blok_00{
+background: #FFC0CB;
+height :41px;
+margin:auto;
+ width: 1170px;
+}
+.blok_01{
+background: orange;
+height :141px;
+margin:auto;
+ width: 1170px;
+ padding-top:71px;
+}
+
+.blok_5{
+background: #FFC0CB;
+height :21px;
+margin:auto;
+ width: 1170px;
+}
+.footer{
+    background: DimGrey;
+  
+	padding-top: 166px;
+	padding-bottom: 166px;
+	 width: 1600px;
+     margin: auto;
+}
